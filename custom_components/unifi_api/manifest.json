@@ -1,0 +1,9 @@
+{
+  "codeowners": ["@b2az"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/b2az/unifi_api",
+  "domain": "unifi_api",
+  "name": "Unifi API",
+  "requirements": []
+}
